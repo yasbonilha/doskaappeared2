@@ -1,0 +1,5 @@
+if(numero==2){
+                        var telaJogo2 = new TelaJogo2();
+                        telaJogo2.setVisible(true);
+                        dispose();
+                    }
